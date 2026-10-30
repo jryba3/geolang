@@ -1,0 +1,13 @@
+Package: geolang
+Title: Clean and Analyze Census Household Language Data for Spatial Analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jacob", "Ryba", , "jacobryba@usf.edu", role = c("aut", "cre"))
+Description: A system for priming data for use in ArcGIS, providing analysis to identify trends in linguistic data.
+Depends: R (>= 3.1.2)
+Imports: dplyr
+License: GPL (>= 3)
+LazyData: true
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.0
